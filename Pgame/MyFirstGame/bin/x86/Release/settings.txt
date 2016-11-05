@@ -1,0 +1,11 @@
+*ScreenRes*
+1024
+768
+*FullScreen*
+0
+*Gamepad*
+0
+*SFXVolume*
+0.4
+*BGMVolume*
+0.2
